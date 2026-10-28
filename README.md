@@ -1,40 +1,80 @@
-# Hi, I'm Mashhood Ali 👋
-**Software Engineering undergraduate @ MAJU, Karachi — building reliable software for industrial and infrastructure systems.**
+<div align="center">
 
-🎯 **Target:** Junior Engineer / Assistant Manager (Software / IT) — industrial and infrastructure systems
+<img src="assets/banner.svg" alt="Mashhood Ali banner" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Industrial+Systems+Builder;QA+%26+Automation+in+Practice;Building+in+Public" alt="Typing animation" />
+
+</div>
+
+## 👋 About
+
+Software Engineering undergraduate at MAJU, Karachi, building reliable software for industrial and infrastructure systems. Hands-on in C/C++, web development, and QA — now growing into Python, TypeScript, React, and FastAPI, one public project at a time.
+
 📍 Karachi, Pakistan — open to remote & on-site roles
-🎓 BS Software Engineering, Muhammad Ali Jinnah University (MAJU) — 2nd Semester
 
-## What I do now
-- **C / C++** — console systems, OOP, data structures (Airline Seat Reservation System)
-- **Front-End** — HTML5, CSS3, JavaScript, GSAP animations, responsive UI (MSA Veloce brand site)
-- **QA & Testing** — manual testing, UI/UX auditing, bug reporting (Mindrift, Decode Labs)
-- **Databases** — MS Access relational design (Clinic Patient Management System)
-- **Tools** — Git, GitHub, VS Code, Odoo ERP, MS Office, Local LLMs (Ollama)
+## 🛠️ Core stack
 
-## Currently building toward (industrial systems stack)
-> Learning in public, one project at a time: **Python • TypeScript • React • FastAPI • Tailwind CSS • Electron**
-> This is my target stack for advanced systems work and my final-year project — not claimed as mastered skills.
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Core CS focus
-DSA • OOP • DBMS • Operating Systems • Computer Networks • Cyber Security fundamentals
-Target: CGPA ≥ 3.00 • Clean academic record
+## 🌱 Growing into
 
-## Final Year Project direction
-Secure local databases • industrial automation tools • telemetry / data-logging software • enterprise dashboards
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
-## Featured projects
-| Project | Stack | What it shows |
+## 🚀 Featured systems
+
+| System | Stack | What it does |
 |---|---|---|
-| Airline Seat Reservation System | C++ | Seating logic, passenger verification, error handling |
-| MSA Veloce Brand Concept Site | HTML/CSS/JS, GSAP | Responsive UI, motion design |
-| Clinic Patient Management System | MS Access | Relational tables, forms, report queries |
-| OOP Coursework Collection | C++ | Encapsulation, abstraction, class design |
+| [Telemetry Logger & Dashboard](https://github.com/MASHHOOD2019/Applied-Systems-.-DEV/tree/main/telemetry-logger) | Python, FastAPI, SQLite, JS | Industrial data-logging API with a live dashboard and sensor simulator |
+| [Secure Local Vault](https://github.com/MASHHOOD2019/Applied-Systems-.-DEV/tree/main/secure-vault) | Python, cryptography | Offline encrypted credential store — PBKDF2 + Fernet, master password never stored |
+| [QA Bug Tracker Dashboard](https://github.com/MASHHOOD2019/Applied-Systems-.-DEV/tree/main/qa-bug-tracker) | HTML, CSS, JavaScript | Full bug lifecycle tool with triage filters, fix-rate stats, and JSON/CSV report export |
 
-## Experience
+## 📊 Stats & activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MASHHOOD2019&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
+<img src="https://streak-stats.demolab.com/?user=MASHHOOD2019&theme=tokyonight&hide_border=true" alt="Streak stats" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MASHHOOD2019&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MASHHOOD2019&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+
+</div>
+
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MASHHOOD2019/MASHHOOD2019/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MASHHOOD2019/MASHHOOD2019/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/MASHHOOD2019/MASHHOOD2019/output/github-snake.svg">
+</picture>
+
+*The snake is generated by a daily workflow — it appears after the first run completes.*
+
+## 💼 Experience
+
 - **AI Trainer / Quality Evaluator** — Mindrift (Remote)
 - **Front-End UI Tester Intern** — Decode Labs
 - **Software Intern** — CodeAlpha
 - **HR Administrator / Technical Operations** — Freelance (Odoo, Outlook, MS Office)
 
-📫 **Reach me:** mashhoodalisahito95@gmail.com • [LinkedIn](https://linkedin.com/in/mashhood-ali-514862296) • Fiverr gig: website QA, landing pages, C++ programs
+## 🎓 Final-year project direction
+
+Secure local databases • industrial automation tools • telemetry / data-logging software • enterprise dashboards
+
+## 📫 Connect
+
+[LinkedIn](https://linkedin.com/in/mashhood-ali-514862296) • mashhoodalisahito95@gmail.com • Fiverr: website QA, landing pages, C++ programs
