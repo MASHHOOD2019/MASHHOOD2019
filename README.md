@@ -1,7 +1,7 @@
 # Hi, I'm Mashhood Ali 👋
-**Software Engineering undergraduate @ MAJU, Karachi — building toward critical national infrastructure & strategic technical sectors.**
+**Software Engineering undergraduate @ MAJU, Karachi — building reliable software for industrial and infrastructure systems.**
 
-🎯 **Target:** Junior Engineer / Assistant Manager (Software / IT), SPS-7 — PAEC, KANUPP (K-2/K-3), DTS
+🎯 **Target:** Junior Engineer / Assistant Manager (Software / IT) — industrial and infrastructure systems
 📍 Karachi, Pakistan — open to remote & on-site roles
 🎓 BS Software Engineering, Muhammad Ali Jinnah University (MAJU) — 2nd Semester
 
@@ -12,13 +12,13 @@
 - **Databases** — MS Access relational design (Clinic Patient Management System)
 - **Tools** — Git, GitHub, VS Code, Odoo ERP, MS Office, Local LLMs (Ollama)
 
-## Currently building toward (PAEC / DTS stack)
+## Currently building toward (industrial systems stack)
 > Learning in public, one project at a time: **Python • TypeScript • React • FastAPI • Tailwind CSS • Electron**
-> These are my target stack for the PAEC entry test & FYP — not claimed as mastered skills.
+> This is my target stack for advanced systems work and my final-year project — not claimed as mastered skills.
 
-## PAEC entry-test focus
+## Core CS focus
 DSA • OOP • DBMS • Operating Systems • Computer Networks • Cyber Security fundamentals
-Target: CGPA ≥ 3.00 (PAEC minimum: 1st Division / CGPA ≥ 2.50) • Clean academic record
+Target: CGPA ≥ 3.00 • Clean academic record
 
 ## Final Year Project direction
 Secure local databases • industrial automation tools • telemetry / data-logging software • enterprise dashboards
