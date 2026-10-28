@@ -37,9 +37,9 @@ Software Engineering undergraduate at MAJU, Karachi, building reliable software 
 
 | System | Stack | What it does |
 |---|---|---|
-| [Telemetry Logger & Dashboard](https://github.com/MASHHOOD2019/Applied-Systems-.-DEV/tree/main/telemetry-logger) | Python, FastAPI, SQLite, JS | Industrial data-logging API with a live dashboard and sensor simulator |
-| [Secure Local Vault](https://github.com/MASHHOOD2019/Applied-Systems-.-DEV/tree/main/secure-vault) | Python, cryptography | Offline encrypted credential store — PBKDF2 + Fernet, master password never stored |
-| [QA Bug Tracker Dashboard](https://github.com/MASHHOOD2019/Applied-Systems-.-DEV/tree/main/qa-bug-tracker) | HTML, CSS, JavaScript | Full bug lifecycle tool with triage filters, fix-rate stats, and JSON/CSV report export |
+| [Telemetry Logger & Dashboard](https://github.com/MASHHOOD2019/Applied-Systems-DEV/tree/main/telemetry-logger) | Python, FastAPI, SQLite, JS | Industrial data-logging API with a live dashboard and sensor simulator |
+| [Secure Local Vault](https://github.com/MASHHOOD2019/Applied-Systems-DEV/tree/main/secure-vault) | Python, cryptography | Offline encrypted credential store — PBKDF2 + Fernet, master password never stored |
+| [QA Bug Tracker Dashboard](https://github.com/MASHHOOD2019/Applied-Systems-DEV/tree/main/qa-bug-tracker) | HTML, CSS, JavaScript | Full bug lifecycle tool with triage filters, fix-rate stats, and JSON/CSV report export |
 
 ## 📊 Stats & activity
 
